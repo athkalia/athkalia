@@ -4,7 +4,7 @@
 > scaling mobile teams, both from a technical and organizational perspective. Currently managing the
 > Android department at Babylon Health, which consists of 36 engineers and 4 engineering managers.
 > Big focus on creating inclusive, high-performing teams. Curious and passionate about technology and
->how it affects the society that we live in.
+> how it affects the society that we live in.
 ````
 
 ````bash
