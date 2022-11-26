@@ -1,6 +1,6 @@
 ````bash
 > help --info
-> Engineering leader with 10 years of experience. I have managed mobile teams of up to 70 people,
+> Engineering manager with 11 years of experience. I have managed teams of up to 70 people,
 > putting a big focus on creating inclusive, high-performing teams. Curious and passionate about
 > technology and how it affects the society that we live in.
 ````
